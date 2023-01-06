@@ -15,6 +15,27 @@ header{
     
 }
 
+/*logo*/
+.navbar-brand{
+
+    text-align: center;
+    font-weight: 400;
+    font-size:xx-large;
+    margin-left: 5px;
+    color:black;
+    font-family: Arial black, Helvetica, sans-serif;
+    font-size: 38px;
+    text-shadow: 2px 2px 2px white;
+    
+
+}
+
+.nav-link, nav-link dropdown-toggle{
+
+    font-size: 20px;
+
+}
+
 section, footer{
 
     margin: 40px;
@@ -32,7 +53,6 @@ h1{
 h2{
 
     font-size: 24px;
-    text-transform: uppercase;
     color: #303030;
     font-weight: 600;
 }
