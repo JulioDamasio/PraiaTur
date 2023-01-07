@@ -5,7 +5,7 @@ body{
     font-size: 15px;
     line-height: 2.2em;
     color: #818181;
-    margin: 0;
+    margin: 0px 20px 0px 20px;
     
 }
 
@@ -27,14 +27,15 @@ header{
     font-size: 38px;
     text-shadow: 2px 2px 2px white;
     
-
 }
 
+/*Menu De navegação*/
 .nav-link, nav-link dropdown-toggle{
 
     font-size: 20px;
 
 }
+
 
 section, footer{
 
